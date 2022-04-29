@@ -1,3 +1,3 @@
-func main() {
-    console.log("blah");
+func main(e) {
+    console.log(e);
 }
