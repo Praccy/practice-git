@@ -1,3 +1,2 @@
-func main(e) {
-    console.log(e);
-}
+wait wait
+console.log("wait")
